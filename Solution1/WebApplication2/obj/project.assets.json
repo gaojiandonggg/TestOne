@@ -9778,11 +9778,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "E:\\学习\\NetCore\\Solution1\\WebApplication2\\WebApplication2.csproj",
+      "projectUniqueName": "E:\\学习\\GitHub\\TestOne\\Solution1\\WebApplication2\\WebApplication2.csproj",
       "projectName": "WebApplication2",
-      "projectPath": "E:\\学习\\NetCore\\Solution1\\WebApplication2\\WebApplication2.csproj",
+      "projectPath": "E:\\学习\\GitHub\\TestOne\\Solution1\\WebApplication2\\WebApplication2.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "E:\\学习\\NetCore\\Solution1\\WebApplication2\\obj\\",
+      "outputPath": "E:\\学习\\GitHub\\TestOne\\Solution1\\WebApplication2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",

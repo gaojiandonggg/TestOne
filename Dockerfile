@@ -7,4 +7,4 @@ WORKDIR /app
 # 设置导出端口
 EXPOSE 8099/tcp
 # 指定应用入口点
-ENTRYPOINT ["dotnet", "/Solution1/WebApplication1/bin/Debug/netcoreapp1.1/WebApplication1.dll"]
+ENTRYPOINT ["dotnet", "Solution1/WebApplication1/bin/Debug/netcoreapp1.1/WebApplication1.dll"]
